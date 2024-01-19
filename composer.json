@@ -1,0 +1,17 @@
+{
+    "name": "pascal-vigneau-pierlovisi/examen-php",
+    "autoload": {
+        "psr-4": {
+            "testUnitaire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pascal Vigneau-Pierlovisi",
+            "email": "20220269@webmail.univ-corse.fr"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
